@@ -1,5 +1,5 @@
 # sql_oracle_printer
-This program reads an SQL script file and executes the query using [Oracle Instant CLient](https://www.oracle.com/database/technologies/instant-client.html), printing the resulting data to a console. 
+This program reads an SQL script file and executes the query using [Oracle Instant Client](https://www.oracle.com/database/technologies/instant-client.html), printing the resulting data to a console. 
 
 ## Usage
 ```
